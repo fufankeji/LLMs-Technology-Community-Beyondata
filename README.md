@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/fufankeji-llms-technology-community-beyondata-badge.png)](https://mseep.ai/app/fufankeji-llms-technology-community-beyondata)
+
 <div align=center>
   <img src="./images/head-img1.png" >
   <h1>🔶 近期热门更新</h1>
